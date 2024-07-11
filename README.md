@@ -1,2 +1,2 @@
-# goit-js-hw-01
-First JS task
+# goit-js-hw-02
+Second JS task
