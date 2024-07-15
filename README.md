@@ -1,2 +1,2 @@
-# goit-js-hw-05
-Fifth JS task
+# goit-js-hw-06
+Sixth JS task
